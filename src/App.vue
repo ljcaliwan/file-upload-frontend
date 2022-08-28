@@ -1,5 +1,7 @@
 <template>
-  
+  <div class="app">
+    <Upload/>
+  </div>
 </template>
 
 <script>
